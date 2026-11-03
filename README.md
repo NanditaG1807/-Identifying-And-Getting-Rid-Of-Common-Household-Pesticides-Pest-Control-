@@ -74,13 +74,6 @@ http://localhost/PC/
 </a>
 </p>
 
-📊 GitHub Statistics
-
-<h3 align="center">📈 My GitHub Stats</h3>
-
-<p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=nanditag1807&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
 
 <h3 align="center">💻 Most Used Languages</h3>
 
